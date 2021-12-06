@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="72dp"
+    tools:context=".ui.main.coming.MoreUpComingFragment">
+
+
+    <com.skydoves.powerspinner.PowerSpinnerView
+        android:id="@+id/sp_list"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/rectangle"
+        android:foreground="?attr/selectableItemBackground"
+        android:hint="Select Mode List"
+        android:padding="10dp"
+        android:textColor="?attr/colorOnSecondary"
+        android:textColorHint="?attr/colorOnSecondary"
+        android:textSize="14.5sp"
+        app:spinner_arrow_gravity="end"
+        app:spinner_arrow_padding="8dp"
+        app:spinner_arrow_tint="?attr/colorPrimary"
+        app:spinner_divider_color="?attr/colorPrimary"
+        app:spinner_divider_show="true"
+        app:spinner_divider_size="0.4dp"
+        app:spinner_item_array="@array/mode_list"
+        app:spinner_popup_animation="bounce"
+        app:spinner_popup_background="?attr/colorOnPrimary"
+        app:spinner_popup_elevation="14dp"
+        tools:ignore="HardcodedText,UnusedAttribute" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_more_up_coming"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sp_list"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="4dp"
+        android:foregroundGravity="center"
+        tools:listitem="@layout/items_list_more_top_rated" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="?attr/actionBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+</RelativeLayout>

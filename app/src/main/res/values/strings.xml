@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie View</string>
+    <string name="popular">Popular</string>
+    <string name="image_movie_dsc">image movie</string>
+    <string name="token">39d89d244f569ee6d9e0827f91617409</string>
+    <string name="more_popular">more popular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">now playing</string>
+    <string name="tv_now_playing">Now Playing</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="latest">Latest</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="search">Search</string>
+    <string name="image_movie">Image Movie</string>
+    <string name="title">title</string>
+    <string name="view_all">View All...</string>
+    <string name="overview">Overview</string>
+    <string name="similar">Similar</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="author">Created by Sasmita group</string>
+    <string-array name="mode_list">
+        <item>List</item>
+        <item>Grid</item>
+    </string-array>
+</resources>

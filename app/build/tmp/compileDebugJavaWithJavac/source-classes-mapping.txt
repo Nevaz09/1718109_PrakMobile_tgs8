@@ -1,0 +1,50 @@
+com/sdssoft/movieview/databinding/ItemsGridMoreTopRatedBinding.java
+ com.sdssoft.movieview.databinding.ItemsGridMoreTopRatedBinding
+com/sdssoft/movieview/databinding/ItemsUpComingBinding.java
+ com.sdssoft.movieview.databinding.ItemsUpComingBinding
+com/sdssoft/movieview/databinding/ItemsPopularBinding.java
+ com.sdssoft.movieview.databinding.ItemsPopularBinding
+com/sdssoft/movieview/BuildConfig.java
+ com.sdssoft.movieview.BuildConfig
+com/sdssoft/movieview/databinding/FragmentSearchBinding.java
+ com.sdssoft.movieview.databinding.FragmentSearchBinding
+com/sdssoft/movieview/databinding/HomeViewMovieBinding.java
+ com.sdssoft.movieview.databinding.HomeViewMovieBinding
+com/sdssoft/movieview/databinding/FragmentMoreTopRatedBinding.java
+ com.sdssoft.movieview.databinding.FragmentMoreTopRatedBinding
+com/sdssoft/movieview/databinding/ItemsRecomendationBinding.java
+ com.sdssoft.movieview.databinding.ItemsRecomendationBinding
+com/sdssoft/movieview/databinding/FragmentMorePopularBinding.java
+ com.sdssoft.movieview.databinding.FragmentMorePopularBinding
+com/sdssoft/movieview/databinding/ItemsListMoreUpComingBinding.java
+ com.sdssoft.movieview.databinding.ItemsListMoreUpComingBinding
+com/sdssoft/movieview/databinding/ItemsSearchBinding.java
+ com.sdssoft.movieview.databinding.ItemsSearchBinding
+com/sdssoft/movieview/databinding/ItemsSimilarBinding.java
+ com.sdssoft.movieview.databinding.ItemsSimilarBinding
+com/sdssoft/movieview/databinding/FragmentMoreUpComingBinding.java
+ com.sdssoft.movieview.databinding.FragmentMoreUpComingBinding
+com/sdssoft/movieview/databinding/ItemsListMorePopularBinding.java
+ com.sdssoft.movieview.databinding.ItemsListMorePopularBinding
+com/sdssoft/movieview/databinding/ItemsTopRatedBinding.java
+ com.sdssoft.movieview.databinding.ItemsTopRatedBinding
+com/sdssoft/movieview/databinding/ItemsNowPlayingBinding.java
+ com.sdssoft.movieview.databinding.ItemsNowPlayingBinding
+com/sdssoft/movieview/databinding/ItemsGenreBinding.java
+ com.sdssoft.movieview.databinding.ItemsGenreBinding
+com/sdssoft/movieview/databinding/ActivityMainBinding.java
+ com.sdssoft.movieview.databinding.ActivityMainBinding
+com/sdssoft/movieview/databinding/ActivityDetailBinding.java
+ com.sdssoft.movieview.databinding.ActivityDetailBinding
+com/sdssoft/movieview/databinding/ActivityWelcomeBinding.java
+ com.sdssoft.movieview.databinding.ActivityWelcomeBinding
+com/sdssoft/movieview/databinding/ItemsGridMoreUpComingBinding.java
+ com.sdssoft.movieview.databinding.ItemsGridMoreUpComingBinding
+com/sdssoft/movieview/databinding/FragmentHomeBinding.java
+ com.sdssoft.movieview.databinding.FragmentHomeBinding
+com/sdssoft/movieview/databinding/ItemsListMoreTopRatedBinding.java
+ com.sdssoft.movieview.databinding.ItemsListMoreTopRatedBinding
+com/sdssoft/movieview/databinding/ItemsGridMorePopularBinding.java
+ com.sdssoft.movieview.databinding.ItemsGridMorePopularBinding
+com/sdssoft/movieview/databinding/DropdownItemBinding.java
+ com.sdssoft.movieview.databinding.DropdownItemBinding
